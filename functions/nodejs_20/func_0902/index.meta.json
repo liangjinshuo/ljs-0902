@@ -1,0 +1,16 @@
+{
+  "apiID": "package_39ddc3__c__function_aadiwz5ajquew",
+  "apiName": "func_0902",
+  "label": {
+    "zh_CN": "func_0902",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
